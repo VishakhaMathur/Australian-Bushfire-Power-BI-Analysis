@@ -35,3 +35,7 @@ Reliability of data was verified by using the confidence category. If it is low,
 
 ### How to use
 Download the `.pbix` file and open it using Power BI Desktop.
+
+### Link to the dashboard
+https://app.powerbi.com/groups/me/reports/a10056ff-09c4-4940-8489-e94d97b19ab3/ed4f4ab67d8919aea85a?experience=power-bi
+
